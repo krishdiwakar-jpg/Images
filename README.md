@@ -1,1 +1,1 @@
-images for the website
+Assets for Fin Maverick Website
